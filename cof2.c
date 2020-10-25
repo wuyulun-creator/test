@@ -1,5 +1,5 @@
 #include <stdio.c>
 int main()
 {
-  return 0;
+  return 1;
 }
